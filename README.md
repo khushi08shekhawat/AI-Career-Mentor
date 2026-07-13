@@ -55,12 +55,7 @@ Chat Output
 
 ### Flow
 
-> *(Add your flow screenshot here after uploading it.)*
-
 ### Playground Demo
-
-> *(Add your Playground screenshot here after uploading it.)*
-
 ---
 
 ##  Demo
